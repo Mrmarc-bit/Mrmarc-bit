@@ -35,7 +35,7 @@ I specialize in creating **modern, scalable, and user-centered** web application
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marufmuchlisin&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrmarc-bit&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmuchlisin&layout=compact&theme=tokyonight" height="165" />
 </p>
 
@@ -53,8 +53,8 @@ I specialize in creating **modern, scalable, and user-centered** web application
 
 <p align="center">
   <a href="https://linkedin.com/in/marufmuchlisin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://instagram.com/marufmuchlisin" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="mailto:marufmuchlisin@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://instagram.com/suntree_art" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="mailto:muchlisinmaruf@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 ---
