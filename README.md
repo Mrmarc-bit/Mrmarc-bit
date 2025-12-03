@@ -35,8 +35,8 @@ I specialize in creating **modern, scalable, and user-centered** web application
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrmarc-bit&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmuchlisin&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrmarc-bit&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmarc-bit&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
@@ -44,7 +44,7 @@ I specialize in creating **modern, scalable, and user-centered** web application
 ### 🏆 Achievements & Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrmarch-bit&thethemeght&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mrmarc-bit&thethemeght&no-bg=true&margin-w=10" />
 </p>
 
 ---
